@@ -3,7 +3,7 @@
   "warnings": [],
   "version": "3.12.0",
   "hash": "29f39db629edab912c35",
-  "time": 6918,
+  "time": 6895,
   "publicPath": "https://ninaolo.github.io/react-static-github-pages-example/",
   "assetsByChunkName": {
     "src/containers/Home": [
@@ -3254,9 +3254,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/react-router/es/generatePath.js",
-          "issuerId": 30,
-          "issuerName": "./node_modules/react-router/es/generatePath.js",
+          "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/react-router/es/matchPath.js",
+          "issuerId": 16,
+          "issuerName": "./node_modules/react-router/es/matchPath.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -9651,9 +9651,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/react-router/es/generatePath.js",
-      "issuerId": 30,
-      "issuerName": "./node_modules/react-router/es/generatePath.js",
+      "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/react-router/es/matchPath.js",
+      "issuerId": 16,
+      "issuerName": "./node_modules/react-router/es/matchPath.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
