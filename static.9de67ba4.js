@@ -623,7 +623,7 @@ var universalOptions = {
 
 var t_0 = (0, _reactUniversalComponent2.default)((0, _universalImport3.default)({
   id: '../src/containers/Home',
-  file: '/Users/Nina/git/react-static-github-pages-example/dist/react-static-routes.js',
+  file: '/Users/Dan/Developer/react-static-github-pages-example/dist/react-static-routes.js',
   load: function load() {
     return Promise.all([new Promise(function(resolve) { resolve(); }).then(__webpack_require__.bind(null, 5)), (0, _importCss3.default)('src/containers/Home', {
       disableWarnings: true
@@ -643,7 +643,7 @@ var t_0 = (0, _reactUniversalComponent2.default)((0, _universalImport3.default)(
 }), universalOptions);
 var t_1 = (0, _reactUniversalComponent2.default)((0, _universalImport3.default)({
   id: '../src/containers/About',
-  file: '/Users/Nina/git/react-static-github-pages-example/dist/react-static-routes.js',
+  file: '/Users/Dan/Developer/react-static-github-pages-example/dist/react-static-routes.js',
   load: function load() {
     return Promise.all([new Promise(function(resolve) { resolve(); }).then(__webpack_require__.bind(null, 6)), (0, _importCss3.default)('src/containers/About', {
       disableWarnings: true
@@ -663,7 +663,7 @@ var t_1 = (0, _reactUniversalComponent2.default)((0, _universalImport3.default)(
 }), universalOptions);
 var t_2 = (0, _reactUniversalComponent2.default)((0, _universalImport3.default)({
   id: '../src/containers/Blog',
-  file: '/Users/Nina/git/react-static-github-pages-example/dist/react-static-routes.js',
+  file: '/Users/Dan/Developer/react-static-github-pages-example/dist/react-static-routes.js',
   load: function load() {
     return Promise.all([new Promise(function(resolve) { resolve(); }).then(__webpack_require__.bind(null, 7)), (0, _importCss3.default)('src/containers/Blog', {
       disableWarnings: true
@@ -683,7 +683,7 @@ var t_2 = (0, _reactUniversalComponent2.default)((0, _universalImport3.default)(
 }), universalOptions);
 var t_3 = (0, _reactUniversalComponent2.default)((0, _universalImport3.default)({
   id: '../src/containers/Post',
-  file: '/Users/Nina/git/react-static-github-pages-example/dist/react-static-routes.js',
+  file: '/Users/Dan/Developer/react-static-github-pages-example/dist/react-static-routes.js',
   load: function load() {
     return Promise.all([new Promise(function(resolve) { resolve(); }).then(__webpack_require__.bind(null, 8)), (0, _importCss3.default)('src/containers/Post', {
       disableWarnings: true
@@ -703,7 +703,7 @@ var t_3 = (0, _reactUniversalComponent2.default)((0, _universalImport3.default)(
 }), universalOptions);
 var t_4 = (0, _reactUniversalComponent2.default)((0, _universalImport3.default)({
   id: '../src/containers/404',
-  file: '/Users/Nina/git/react-static-github-pages-example/dist/react-static-routes.js',
+  file: '/Users/Dan/Developer/react-static-github-pages-example/dist/react-static-routes.js',
   load: function load() {
     return Promise.all([new Promise(function(resolve) { resolve(); }).then(__webpack_require__.bind(null, 9)), (0, _importCss3.default)('src/containers/404', {
       disableWarnings: true
@@ -1528,4 +1528,4 @@ function toComment(sourceMap) {
 /***/ })
 /******/ ]);
 });
-//# sourceMappingURL=static.df26a47d.js.map
+//# sourceMappingURL=static.9de67ba4.js.map
