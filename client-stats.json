@@ -2,9 +2,9 @@
   "errors": [],
   "warnings": [],
   "version": "3.12.0",
-  "hash": "29f39db629edab912c35",
-  "time": 6895,
-  "publicPath": "https://ninaolo.github.io/react-static-github-pages-example/",
+  "hash": "f7b03aa82daf777b1684",
+  "time": 6478,
+  "publicPath": "https://djmccurley.github.io/react-static-github-pages-example/",
   "assetsByChunkName": {
     "src/containers/Home": [
       "templates/src/containers/Home.6a06b2b8.js",
@@ -27,19 +27,19 @@
       "templates/src/containers/404.9b7a26aa.js.map"
     ],
     "main": [
-      "main.c4874559.js",
-      "styles.29f39db6.css",
-      "main.c4874559.js.map",
-      "styles.29f39db6.css.map"
+      "main.27aab192.js",
+      "styles.f7b03aa8.css",
+      "main.27aab192.js.map",
+      "styles.f7b03aa8.css.map"
     ],
     "bootstrap": [
-      "bootstrap.5b8c850f.js",
-      "bootstrap.5b8c850f.js.map"
+      "bootstrap.43750e52.js",
+      "bootstrap.43750e52.js.map"
     ]
   },
   "assets": [
     {
-      "name": "styles.29f39db6.css",
+      "name": "styles.f7b03aa8.css",
       "size": 383,
       "chunks": [
         5
@@ -101,8 +101,8 @@
       "emitted": true
     },
     {
-      "name": "main.c4874559.js",
-      "size": 274506,
+      "name": "main.27aab192.js",
+      "size": 274521,
       "chunks": [
         5
       ],
@@ -113,8 +113,8 @@
       "isOverSizeLimit": true
     },
     {
-      "name": "bootstrap.5b8c850f.js",
-      "size": 1676,
+      "name": "bootstrap.43750e52.js",
+      "size": 1679,
       "chunks": [
         6
       ],
@@ -190,8 +190,8 @@
       "emitted": true
     },
     {
-      "name": "main.c4874559.js.map",
-      "size": 1460399,
+      "name": "main.27aab192.js.map",
+      "size": 1460414,
       "chunks": [
         5
       ],
@@ -201,7 +201,7 @@
       "emitted": true
     },
     {
-      "name": "styles.29f39db6.css.map",
+      "name": "styles.f7b03aa8.css.map",
       "size": 96,
       "chunks": [
         5
@@ -212,8 +212,8 @@
       "emitted": true
     },
     {
-      "name": "bootstrap.5b8c850f.js.map",
-      "size": 14805,
+      "name": "bootstrap.43750e52.js.map",
+      "size": 14811,
       "chunks": [
         6
       ],
@@ -231,12 +231,12 @@
         5
       ],
       "assets": [
-        "bootstrap.5b8c850f.js",
-        "bootstrap.5b8c850f.js.map",
-        "main.c4874559.js",
-        "styles.29f39db6.css",
-        "main.c4874559.js.map",
-        "styles.29f39db6.css.map"
+        "bootstrap.43750e52.js",
+        "bootstrap.43750e52.js.map",
+        "main.27aab192.js",
+        "styles.f7b03aa8.css",
+        "main.27aab192.js.map",
+        "styles.f7b03aa8.css.map"
       ],
       "isOverSizeLimit": true
     }
@@ -693,12 +693,12 @@
         "main"
       ],
       "files": [
-        "main.c4874559.js",
-        "styles.29f39db6.css",
-        "main.c4874559.js.map",
-        "styles.29f39db6.css.map"
+        "main.27aab192.js",
+        "styles.f7b03aa8.css",
+        "main.27aab192.js.map",
+        "styles.f7b03aa8.css.map"
       ],
-      "hash": "c4874559a7c64b728be8",
+      "hash": "27aab19201b1fe53be83",
       "parents": [
         6
       ],
@@ -1675,9 +1675,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/react-static/lib/client/methods.js",
-          "issuerId": 10,
-          "issuerName": "./node_modules/react-static/lib/client/methods.js",
+          "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/react-static/lib/client/components/RouteData.js",
+          "issuerId": 83,
+          "issuerName": "./node_modules/react-static/lib/client/components/RouteData.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -1968,9 +1968,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/react-static/lib/client/methods.js",
-          "issuerId": 10,
-          "issuerName": "./node_modules/react-static/lib/client/methods.js",
+          "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/react-static/lib/client/components/RouteData.js",
+          "issuerId": 83,
+          "issuerName": "./node_modules/react-static/lib/client/components/RouteData.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -2719,9 +2719,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/history/createBrowserHistory.js",
-          "issuerId": 110,
-          "issuerName": "./node_modules/history/createBrowserHistory.js",
+          "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/history/createMemoryHistory.js",
+          "issuerId": 112,
+          "issuerName": "./node_modules/history/createMemoryHistory.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -2775,9 +2775,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/history/createBrowserHistory.js",
-          "issuerId": 110,
-          "issuerName": "./node_modules/history/createBrowserHistory.js",
+          "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/history/createMemoryHistory.js",
+          "issuerId": 112,
+          "issuerName": "./node_modules/history/createMemoryHistory.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -3254,9 +3254,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/react-router/es/matchPath.js",
-          "issuerId": 16,
-          "issuerName": "./node_modules/react-router/es/matchPath.js",
+          "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/react-router/es/generatePath.js",
+          "issuerId": 30,
+          "issuerName": "./node_modules/react-router/es/generatePath.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -3495,9 +3495,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/react-static/lib/client/methods.js",
-          "issuerId": 10,
-          "issuerName": "./node_modules/react-static/lib/client/methods.js",
+          "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/react-static/lib/client/components/SiteData.js",
+          "issuerId": 105,
+          "issuerName": "./node_modules/react-static/lib/client/components/SiteData.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -7089,10 +7089,10 @@
         "bootstrap"
       ],
       "files": [
-        "bootstrap.5b8c850f.js",
-        "bootstrap.5b8c850f.js.map"
+        "bootstrap.43750e52.js",
+        "bootstrap.43750e52.js.map"
       ],
-      "hash": "5b8c850f7e6c08906d6f",
+      "hash": "43750e524675413d3237",
       "parents": [],
       "modules": [],
       "filteredModules": 0,
@@ -8072,9 +8072,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/react-static/lib/client/methods.js",
-      "issuerId": 10,
-      "issuerName": "./node_modules/react-static/lib/client/methods.js",
+      "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/react-static/lib/client/components/RouteData.js",
+      "issuerId": 83,
+      "issuerName": "./node_modules/react-static/lib/client/components/RouteData.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -8365,9 +8365,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/react-static/lib/client/methods.js",
-      "issuerId": 10,
-      "issuerName": "./node_modules/react-static/lib/client/methods.js",
+      "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/react-static/lib/client/components/RouteData.js",
+      "issuerId": 83,
+      "issuerName": "./node_modules/react-static/lib/client/components/RouteData.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -9116,9 +9116,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/history/createBrowserHistory.js",
-      "issuerId": 110,
-      "issuerName": "./node_modules/history/createBrowserHistory.js",
+      "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/history/createMemoryHistory.js",
+      "issuerId": 112,
+      "issuerName": "./node_modules/history/createMemoryHistory.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -9172,9 +9172,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/history/createBrowserHistory.js",
-      "issuerId": 110,
-      "issuerName": "./node_modules/history/createBrowserHistory.js",
+      "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/history/createMemoryHistory.js",
+      "issuerId": 112,
+      "issuerName": "./node_modules/history/createMemoryHistory.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -9651,9 +9651,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/react-router/es/matchPath.js",
-      "issuerId": 16,
-      "issuerName": "./node_modules/react-router/es/matchPath.js",
+      "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/react-router/es/generatePath.js",
+      "issuerId": 30,
+      "issuerName": "./node_modules/react-router/es/generatePath.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -9892,9 +9892,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/react-static/lib/client/methods.js",
-      "issuerId": 10,
-      "issuerName": "./node_modules/react-static/lib/client/methods.js",
+      "issuer": "/Users/Dan/Developer/react-static-github-pages-example/node_modules/react-static/lib/client/components/SiteData.js",
+      "issuerId": 105,
+      "issuerName": "./node_modules/react-static/lib/client/components/SiteData.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -13742,7 +13742,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "https://ninaolo.github.io/react-static-github-pages-example/",
+      "publicPath": "https://djmccurley.github.io/react-static-github-pages-example/",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -13768,7 +13768,7 @@
           "files": [
             "extract-text-webpack-plugin-output-filename"
           ],
-          "hash": "b33f11e51563d20e4696",
+          "hash": "b11ca16dfbd507027775",
           "parents": [],
           "modules": [
             {
